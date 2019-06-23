@@ -1,2 +1,5 @@
+env:
+  - name: GCP_PROJECT
+    value: go-exchange-staging
 buildPack: maven-quarkus
 buildPackGitURL: https://github.com/carlossg/jenkins-x-kubernetes
